@@ -1,4 +1,7 @@
-<h1 align="center">👋 你好，我是 lxc763092</h1>
+<h1 align="center">
+  <img src="avatar.jpg" width="150" height="150" style="border-radius:50%; object-fit:cover;"><br>
+  👋 你好，我是 lxc763092
+</h1>
 
 <p align="center">
   <b>全栈独立开发者 · 修仙游戏创作者 · 开源爱好者</b>
